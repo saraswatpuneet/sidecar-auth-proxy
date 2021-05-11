@@ -10,8 +10,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/sidecar/sidecar-auth-proxy/handlers/authz"
-	"github.com/sidecar/sidecar-auth-proxy/proxy"
+	"github.com/psaraswatshell/sidecar-auth-proxy/handlers/authz"
+	"github.com/psaraswatshell/sidecar-auth-proxy/proxy"
 
 	graceful "gopkg.in/tylerb/graceful.v1"
 )

@@ -1,4 +1,5 @@
 module github.com/psaraswatshell/sidecar-auth-proxy
+
 go 1.14
 
 require (
