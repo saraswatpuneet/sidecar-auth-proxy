@@ -10,8 +10,8 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/psaraswatprivate/sidecar-auth-proxy/proxy"
-	"github.com/psaraswatprivate/sidecar-auth-proxy/server"
+	"github.com/psaraswatshell/sidecar-auth-proxy/proxy"
+	"github.com/psaraswatshell/sidecar-auth-proxy/server"
 )
 
 func main() {

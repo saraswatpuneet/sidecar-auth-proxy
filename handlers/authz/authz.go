@@ -8,9 +8,9 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/psaraswatprivate/sidecar-auth-proxy/lib/googleprojectlib"
-	"github.com/psaraswatprivate/sidecar-auth-proxy/lib/identity"
-	"github.com/psaraswatprivate/sidecar-auth-proxy/lib/jwt"
+	"github.com/psaraswatshell/sidecar-auth-proxy/lib/googleprojectlib"
+	"github.com/psaraswatshell/sidecar-auth-proxy/lib/identity"
+	"github.com/psaraswatshell/sidecar-auth-proxy/lib/jwt"
 
 	"go.opencensus.io/trace"
 )
